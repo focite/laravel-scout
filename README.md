@@ -7,7 +7,7 @@ This package provides a [Elasticsearch](https://www.elastic.co/products/elastics
 You can install the package via composer:
 
 ```bash
-composer require jaravel/laravel-scout-elastic
+composer require focite/laravel-scout-elastic
 ```
 
 Laravel will automatically register the driver service provider.

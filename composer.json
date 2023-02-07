@@ -1,5 +1,5 @@
 {
-  "name": "jaravel/laravel-scout-elastic",
+  "name": "focite/laravel-scout-elastic",
   "description": "Elastic Driver for Laravel Scout",
   "license": "MIT",
   "require": {
@@ -12,13 +12,13 @@
   },
   "autoload": {
     "psr-4": {
-      "Jaravel\\Scout\\Elastic\\": "src/"
+      "Focite\\Scout\\Elastic\\": "src/"
     }
   },
   "extra": {
     "laravel": {
       "providers": [
-        "Jaravel\\Scout\\Elastic\\LaravelScoutElasticProvider"
+        "Focite\\Scout\\Elastic\\LaravelScoutElasticProvider"
       ]
     }
   },
