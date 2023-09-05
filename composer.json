@@ -1,5 +1,5 @@
 {
-  "name": "focite/laravel-scout-elastic",
+  "name": "focite/laravel-scout",
   "description": "Elastic Driver for Laravel Scout",
   "license": "MIT",
   "require": {
