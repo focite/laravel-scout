@@ -1,12 +1,12 @@
 <?php
 
-namespace Dscmall\Scout\Elastic;
+namespace Focite\Scout\Elastic;
 
 use Exception;
 use Elasticsearch\ClientBuilder;
 use Laravel\Scout\EngineManager;
 use Illuminate\Support\ServiceProvider;
-use Dscmall\Scout\Elastic\Engines\ElasticsearchEngine;
+use Focite\Scout\Elastic\Engines\ElasticsearchEngine;
 
 class LaravelScoutElasticProvider extends ServiceProvider
 {

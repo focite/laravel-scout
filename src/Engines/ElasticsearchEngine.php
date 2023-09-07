@@ -1,6 +1,6 @@
 <?php
 
-namespace Dscmall\Scout\Elastic\Engines;
+namespace Focite\Scout\Elastic\Engines;
 
 use Laravel\Scout\Builder;
 use Laravel\Scout\Engines\Engine;
